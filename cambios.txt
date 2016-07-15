@@ -1,0 +1,10 @@
+
+
+
+v0.1.1
+- Agregado estabilizador de combustible de 10 valores
+
+
+
+v0.1.0
+- Version inicial
